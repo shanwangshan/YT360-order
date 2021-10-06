@@ -27,4 +27,5 @@ if the order is not switched manually, from both "0.25_0.5.wav" and "0.75_0.5.wa
 Since example "redownloaded_from_YT.mp4/m4a" is created in a way that strictly piano on left side, and voice on the right side, and seagull on the top side, after applying beamforming, if the order is appllied correctly, one can hear the difference easily. 
 
 ### Acknowledgement
-data "redownloaded_from_YT.mp4/m4a" is created by Archontis Politis and "kqAZkf5Odyw-80.mp4/m4a" is from theclarksmusic https://www.youtube.com/watch?v=kqAZkf5Odyw
+1. data "redownloaded_from_YT.mp4/m4a" is created by Archontis Politis and "kqAZkf5Odyw-80.mp4/m4a" is from theclarksmusic https://www.youtube.com/watch?v=kqAZkf5Odyw
+2. This code is part of https://github.com/pedro-morgado/AVSpatialAlignment.  beamformer function inside the utils/video360.py is implemented by Archontis Politis.
