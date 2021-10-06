@@ -25,3 +25,6 @@ if the order is not switched manually, from both "0.25_0.5.wav" and "0.75_0.5.wa
 
 ### Simally analysis results can also be found in the other example. 
 Since example "redownloaded_from_YT.mp4/m4a" is created in a way that strictly piano on left side, and voice on the right side, and seagull on the top side, after applying beamforming, if the order is appllied correctly, one can hear the difference easily. 
+
+### acknowledgement
+data "redownloaded_from_YT.mp4/m4a" is created by Archontis Politis and "kqAZkf5Odyw-80.mp4/m4a" is from theclarksmusic https://www.youtube.com/watch?v=kqAZkf5Odyw
